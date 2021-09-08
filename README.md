@@ -5,4 +5,4 @@ System Tested : macOS Big Sur + Xcode + openFrameworks of_v20210907_ios_release 
 addon : ofxSvg, [ofxBox2d](https://github.com/vanderlin/ofxBox2d)  
 svg : 
 [Eva Icons](https://akveo.github.io/eva-icons/#/)  
-flaticon(Icon Pack: Autumn Nature | Flat)[https://www.flaticon.com/packs/autumn-nature-55]
+[flaticon(Icon Pack: Autumn Nature | Flat](https://www.flaticon.com/packs/autumn-nature-55)
