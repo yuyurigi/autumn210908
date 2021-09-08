@@ -1,2 +1,0 @@
-ofxBox2d
-ofxSvg
